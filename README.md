@@ -6,7 +6,7 @@
 ### [Full Tutorial here](https://www.youtube.com/playlist?list=PLsT53VV2LIIFWgFtLCME6cXT6pUlouN8K)
 
 ### Code Requirements
-- Tensorflow
+- Tensorflow  // heyy is tensorflow compulsary ,can i use thonny???
 - Download my repository
 - Own Expression dataset(NOTE: You can downlaod expression images from google, or you can record your video make diffrent expression ,and converts into Grayscale images(For more accurate prediction))
 - Song dataset
